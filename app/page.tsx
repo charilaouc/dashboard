@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <main>CosmosOrder Ltd</main>
+    <div>CosmosOrder Ltd</div>
   )
 }
